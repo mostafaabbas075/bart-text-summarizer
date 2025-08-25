@@ -91,5 +91,3 @@ AI Student | NLP Practitioner
 Thanks to **Elevvo** for the valuable internship experience and professional training.
 
 
-- [Ngrok Documentation](https://ngrok.com/docs)
-```

@@ -1,4 +1,4 @@
-```
+
 # Abstractive Text Summarizer (BART)
 
 This project is a **web-based abstractive text summarizer** powered by the `facebook/bart-large-cnn` model from Hugging Face Transformers. It allows users to input text and get a concise, coherent summary using a pre-trained BART model. The interface is built with **Streamlit**, and the app can be exposed publicly using **Ngrok**.
